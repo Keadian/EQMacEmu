@@ -33,6 +33,7 @@ Basic Guide Details:
    - [Update the reference for quarm db to latest version](https://github.com/nickgal/EQMacDocker/pull/3)
    - [Update environment variables to reference quarm](https://github.com/nickgal/EQMacDocker/pull/2)
  - Change the submodules to point to your forked versions of the Server and Quests submodules
+    - Go to EQMacDocker Folder and open .gitmodules and point the submodules to your forked urls.
  <br>
  
  - Install WSL 2 
@@ -52,5 +53,6 @@ Basic Guide Details:
  
  - Run the game
 <br>
+
 
  - For common issues and fixes please reference the Getting Started Guide above
